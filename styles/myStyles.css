@@ -1,0 +1,38 @@
+/*Last edited on: 12/16/2021*/
+
+.background {
+    background-color: rgb(70, 1, 70);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.alltext {
+    color: white;
+}
+
+/*link to Woodgrain page*/
+.WGlink {
+    color: plum;
+    text-decoration: underline;
+}
+
+.anchor {
+    color: pink;
+}
+
+.homemedia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.resumelink {
+    color: white;
+}

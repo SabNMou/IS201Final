@@ -1,0 +1,37 @@
+/*Last edited on 12/17/2021*/
+
+.nav {
+    position: relative;
+    padding-left: 2cm;
+    background-color: white;
+    height: 200px;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+}
+
+.main {
+    position: relative;
+    top: 205px;
+    left: 5px;
+    right: 5px;
+    bottom: 55px;
+    padding-right: 2cm;
+}
+
+.foot {
+    position: relative;
+    height: 50px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.background {
+    background-color: purple;
+}
